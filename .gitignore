@@ -1,0 +1,6 @@
+project.lock.json
+/.vs
+/.vs
+/ExternalDialog/bin/Debug
+/ExternalDialog/obj/Debug
+/packages
